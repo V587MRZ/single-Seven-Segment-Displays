@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Mar 19 10:28:59 2021
+# Process ID: 15768
+# Current directory: E:/class/Master of ANU/6213_Digital Systems and Microprocessors/my_6213/lab3/single_seven_segment_display/single_seven_segment_display.runs/synth_1
+# Command line: vivado.exe -log single_seven_segment_display.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source single_seven_segment_display.tcl
+# Log file: E:/class/Master of ANU/6213_Digital Systems and Microprocessors/my_6213/lab3/single_seven_segment_display/single_seven_segment_display.runs/synth_1/single_seven_segment_display.vds
+# Journal file: E:/class/Master of ANU/6213_Digital Systems and Microprocessors/my_6213/lab3/single_seven_segment_display/single_seven_segment_display.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source single_seven_segment_display.tcl -notrace
